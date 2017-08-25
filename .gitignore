@@ -1,0 +1,20 @@
+#Intellij
+.idea
+**/*.iml
+
+#MVN
+target
+
+#Eclipse
+**/.project
+**/.metadata
+**/.classpath
+**/.settings/
+
+#ignore local-environment properties file
+**/local-environment.properties
+
+
+
+
+
