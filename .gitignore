@@ -10,6 +10,7 @@ target
 **/.metadata
 **/.classpath
 **/.settings/
+.class
 
 #ignore local-environment properties file
 **/local-environment.properties
