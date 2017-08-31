@@ -8,3 +8,5 @@ azi e luni
 maine e marti
 
 testing fetch
+
+modificare pe master dupa fetch
