@@ -6,3 +6,5 @@ modificare la o modificare
 
 azi e luni
 maine e marti
+
+testing fetch
